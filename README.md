@@ -36,3 +36,5 @@ https://git-scm.com/download
 * `git push` // envia alterações locais para o repositório remoto
 * `git clone` // clonar um projeto / repositório
 * `git pull` // puxa do repositório remoto
+
+AULA GIT E GITHUB - ROCKETSEAT - YOUTUBE: https://www.youtube.com/watch?v=2alg7MQ6_sI&t=1306s
